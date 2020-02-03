@@ -8,6 +8,13 @@ const a int = 1
 const b = 'A'
 const a, b, c = 1,
 
+const (
+	d=2
+	c
+	e
+	
+)
+
 func main() {
 	var a float32
 	a = 100.1
