@@ -1,15 +1,15 @@
 package main
 
-import(
+import (
 	"fmt"
 	"time"
 )
 
 func main() {
-	go Go()	
-	time.Sleep(5*time.Second)
+	go Go()
+	time.Sleep(5 * time.Second)
 }
 
-func Go(){
+func Go() {
 	fmt.Println("Go Go Go!!!")
 }

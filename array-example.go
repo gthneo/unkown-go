@@ -1,3 +1,6 @@
+/* a example about array
+very cool
+*/ 
 package main
 
 import (
